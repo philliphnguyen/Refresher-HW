@@ -1,0 +1,48 @@
+.jumbotron {
+    background-image: url(imgs/hero.jpeg);
+    background-size: cover;
+    height: 500px;
+    display: flex;
+    align-items: center;
+}
+
+.card-img-top {
+    height: 180px;
+}
+
+.content {
+    height: 100vh;
+    padding-top: 50px;
+    background-size: cover;
+}
+
+.form {
+    background-color: white;
+    border-radius: 5px;
+    padding: 10px;
+    width: 30rem;
+}
+
+.form-blog {
+    background-color: white;
+    border-radius: 5px;
+    padding: 10px;
+    width: 40rem;
+}
+
+.blog-post {
+    padding: 10px;
+    width: 100%;
+}
+
+.form-group {
+    padding: 7px;
+}
+
+.banner {
+    width: 100%;
+    background-position: center;
+    height: 300px;
+    display: none;
+    background-repeat: no-repeat;
+}
